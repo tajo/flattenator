@@ -1,0 +1,26 @@
+{
+  "name": "flattenator",
+  "version": "0.0.1",
+  "description": "Flatten or Nest Javascript objects with custom separators (delimiters).",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "tape": "~4.0.0"
+  },
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tajo/flattenator.git"
+  },
+  "keywords": [
+    "flatten",
+    "nest",
+    "keyspec"
+  ],
+  "author": "Vojtech Miksu <vojtech@miksu.cz>",
+  "license": "MIT",
+}
